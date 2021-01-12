@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\CodeFellows\\401\\challenges\\ArrayReverse\\ArrayReverse.csproj",
+      "projectUniqueName": "E:\\CodeFellows\\401\\codechallenges\\challenges\\ArrayReverse\\ArrayReverse.csproj",
       "projectName": "ArrayReverse",
-      "projectPath": "E:\\CodeFellows\\401\\challenges\\ArrayReverse\\ArrayReverse.csproj",
+      "projectPath": "E:\\CodeFellows\\401\\codechallenges\\challenges\\ArrayReverse\\ArrayReverse.csproj",
       "packagesPath": "C:\\Users\\JP\\.nuget\\packages\\",
-      "outputPath": "E:\\CodeFellows\\401\\challenges\\ArrayReverse\\obj\\",
+      "outputPath": "E:\\CodeFellows\\401\\codechallenges\\challenges\\ArrayReverse\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",

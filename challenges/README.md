@@ -1,17 +1,8 @@
-# Reverse an Array
+# Data Structures and Algorithms
 
-Exercise on Array manipulation
+## Index to Challenges
 
-## Challenge
-Create a function that will take in an array, reverse the elements in the array and output the reversed array.
-
-## Approach  & Efficiency
-
-Conducted an whiteboarding exercise to plan out the expected code to use
-
-## Solution
-
-[ArrayReverse Image](./assets/ArrayReverse.png)
-
++ [Array Reverse](./ArrayReverse/README.md)
++ [Array Shift](./ArrayShift/README.md)
 
 
