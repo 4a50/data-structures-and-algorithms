@@ -7,6 +7,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ArrayReverse", "ArrayRevers
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ArrayShift", "ArrayShift\ArrayShift.csproj", "{537D925D-3104-4321-82CE-A63D2C3DE298}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BinarySearch", "BinarySearch\BinarySearch.csproj", "{6B212BD5-FD34-4001-B6D2-FD9B5398A1A1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{537D925D-3104-4321-82CE-A63D2C3DE298}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{537D925D-3104-4321-82CE-A63D2C3DE298}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{537D925D-3104-4321-82CE-A63D2C3DE298}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6B212BD5-FD34-4001-B6D2-FD9B5398A1A1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B212BD5-FD34-4001-B6D2-FD9B5398A1A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B212BD5-FD34-4001-B6D2-FD9B5398A1A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B212BD5-FD34-4001-B6D2-FD9B5398A1A1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
