@@ -1,8 +1,10 @@
 {
   "ExpandedNodes": [
     "",
-    "\\challenges"
+    "\\challenges",
+    "\\challenges\\assets",
+    "\\challenges\\BinarySearch"
   ],
-  "SelectedNode": "\\challenges\\challenges.sln",
+  "SelectedNode": "\\challenges\\assets\\WhiteBoardCodeChalleng2-2.png",
   "PreviewInSolutionExplorer": false
 }

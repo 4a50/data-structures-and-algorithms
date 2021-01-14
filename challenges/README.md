@@ -4,5 +4,6 @@
 
 + [Array Reverse](./ArrayReverse/README.md)
 + [Array Shift](./ArrayShift/README.md)
++ [Binary Search](./BinarySearch/README.md)
 
 
